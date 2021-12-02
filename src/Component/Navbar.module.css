@@ -1,0 +1,13 @@
+.navbar {
+    background-color: rebeccapurple;
+}
+.navbar a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 9px;
+    color: #fff;
+    font-size: 20px;
+}
+.navbar a:hover {
+    color: #333;
+}

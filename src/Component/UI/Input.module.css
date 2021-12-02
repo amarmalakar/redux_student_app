@@ -1,0 +1,32 @@
+.input-control {
+    display: block;
+    padding: 6px 0;
+}
+.input-control > label {
+    display: block;
+    line-height: 2;
+    color: rebeccapurple;
+    font-weight: 600;
+}
+.input-control > input {
+    width: 100%;
+    padding: 6px;
+    font-size: 16px;
+    border: 2px solid plum;
+    border-radius: 4px;
+}
+
+.input-control > input[type=submit] {
+    display: inline-block;
+    width: auto;
+    background-color: plum;
+    border: 2px solid rebeccapurple;
+    color: rebeccapurple;
+    font-weight: bold;
+    padding: 12px 12px;
+    transition: all .15s;
+}
+.input-control > input[type=submit]:hover {
+    background-color: rebeccapurple;
+    color: #fff;
+}

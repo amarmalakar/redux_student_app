@@ -1,0 +1,11 @@
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.list > li a {
+    margin-right: 8px;
+}
+.list > li a:last-child {margin-right: 0;}

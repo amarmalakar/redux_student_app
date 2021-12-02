@@ -1,0 +1,6 @@
+.box {
+    border: 2px solid rebeccapurple;
+    background-color: #efefef;
+    border-radius: 6px;
+    padding: 12px;
+}
