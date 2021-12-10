@@ -14,7 +14,7 @@ const studentSlice = createSlice({
                 firstName: newData.firstName,
                 lastName: newData.lastName,
                 email: newData.email,
-                phone: newData.email,
+                phone: newData.phone,
                 address: newData.address,
             })
         },
