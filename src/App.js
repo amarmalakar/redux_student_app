@@ -7,7 +7,6 @@ const App = () => {
     <BrowserRouter>
       <Navbar />
       <br />
-      <h1>Student App</h1>
       <WebRouters />
     </BrowserRouter>
   )
